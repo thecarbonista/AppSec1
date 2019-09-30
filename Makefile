@@ -28,4 +28,3 @@ clean:
 
 cleanall:clean
 	rm spell_check
-	
